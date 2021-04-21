@@ -1,0 +1,19 @@
+const posts = [
+  {
+    id: 1,
+    title: "Gallic Wars",
+    text:
+      "The Gallic Wars were a series of military campaigns waged by the Roman proconsul Julius Caesar against numerous Gallic tribes between 58 BC and 50 BC. They culminated in the decisive Battle of Alesia in 52 BC, in which a complete Roman victory resulted in the expansion of the Roman Republic over the whole of Gaul (mainly present-day France and Belgium). While militarily just as strong as the Romans, the Gallic tribes' internal divisions helped ease victory for Caesar; Vercingetorix's attempt to unite the Gauls against Roman invasion came too late. Although Caesar portrayed the invasion as being a preemptive and defensive action, most historians agree he fought the wars primarily to boost his political career and to pay off his massive debts. Still, Gaul was of significant military importance to the Romans, as native tribes, both indigenous to Gaul and farther to the north, had attacked them several times. Conquering Gaul allowed Rome to secure the natural border of the Rhine river. \n The wars began with conflict over the migration of the Helvetii in 58 BC, which drew in neighboring tribes and the Germanic Suebi. By 57 BC, Caesar had resolved to conquer all of Gaul, and led campaigns in the east, where the Nervii nearly defeated him. In 56 BC, Caesar defeated the Veneti in a naval battle and took most of northwest Gaul. In 55 BC, Caesar sought to boost his public image, and undertook first of their kind expeditions across the Rhine river and the English Channel. Upon his return from Britain, Caesar was hailed as a hero, though he had achieved little beyond landing because his army had been too small. The next year, he went back with a proper army and conquered much of Britain. However, tribes rose up on the continent, and the Romans suffered several humiliating defeats. 53 BC saw a draconian campaign against the Gauls in an attempt to pacify them. This failed, and the Gauls staged a mass revolt under the leadership of Vercingetorix in 52 BC. Gallic forces won a notable victory at the Battle of Gergovia, but the Romans' indomitable siege works at the Battle of Alesia utterly defeated the Gallic coalition. \n In 51 BC and 50 BC, there was little resistance, and Caesar's troops were mostly mopping up. Gaul was conquered, although it would not become a Roman province until 27 BC, and resistance would continue until as late as 70 AD. There is no clear end-date for the war, but the imminent Roman Civil War led to the withdrawal of Caesar's troops in 50 BC. Caesar's wild successes in the war had made him extremely wealthy and provided a legendary reputation. The Gallic Wars were a key factor in Caesar's ability to win the Civil War and declare himself dictator, in what would eventually lead to the end of the Roman Republic and the establishment of the Roman Empire. \n Julius Caesar described the Gallic Wars in his book Commentarii de Bello Gallico, which is the primary source for the conflict, though modern historians consider it to be unreliable. Caesar makes impossible claims about the number of Gauls killed (over a million), while claiming almost zero Roman casualties. Modern historians believe that Gallic forces were far smaller than the Romans claimed, and that they suffered tens of thousands of casualties. Historian David Henige regards the entire account as clever propaganda meant to boost Caesar's image and suggests it is of minimal historical accuracy. The campaign was still exceptionally brutal and untold numbers of Gauls were killed or enslaved, including large numbers of non-combatants. \n",
+    authorName: "John Smith",
+    authorPhoto: "user-5",
+    imgCover: "caesar",
+    info: {
+      Date: "58-50 BC",
+      Location:
+        "Gaul (present-day France, Luxembourg, Belgium, Switzerland, and northern Italy",
+      Result: "Roman victory",
+    },
+  },
+];
+
+export default posts;
